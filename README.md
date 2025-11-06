@@ -104,3 +104,57 @@ sudo apt update
 sudo apt install curl -y
 curl --version
 
+---
+
+<h2>Step 7 – Performing HTTP Requests with curl</h2>
+
+Executed real HTTP requests using the `curl` command to fetch data and analyze HTTP response headers.
+
+<h2>Results</h2>
+-  HTML successfully retrieved from example.com
+-  Local HTML file saved as example.html
+-  Verified HTTP 200 OK response
+
+📸 Screenshot Placeholder
+
+-  (07-curl-requests.png)
+
+<h2>Step 8 – Documenting the Project in Ubuntu</h2>
+
+Used the nano text editor to create and edit a README file directly inside Ubuntu.
+This step demonstrates documenting technical work entirely from the Linux terminal using Markdown.
+
+<h2>Results</h2>
+
+  -  Successfully opened and edited README.md using nano
+  -  Practiced Markdown formatting and documentation structure
+  -  reinforced Linux file editing workflow (Ctrl+O → Enter → Ctrl+X)
+  -  verified README.md file saved inside /home/<user> directory
+
+<h2>Objective Achieved</h2>
+  -  Practiced professional documentation habits inside Linux
+  -  Strengthened Markdown writing and version-control workflow
+  -  Finalized project summary with all commands, screenshots, and outcomes
+
+📸 Screenshot Placeholder
+  -  (08-readme-nano.png)
+
+✅ Project Results / Validation
+
+-  WSL2 configured and virtualization verified
+-  Ubuntu successfully installed and running under Windows
+-  curl installed, tested, and verified through real HTTP requests
+-  HTTP response headers retrieved and analyzed
+-  Markdown documentation created directly within Linux
+
+🎯 Lessons Learned / Conclusion
+
+-  Learned to install and verify CLI tools such as curl and nano
+-  Understood how HTTP GET requests retrieve webpage data
+-  Practiced using the command line to test network connections
+-  Strengthened Windows ↔ Linux integration skills via WSL2 configuration
+-  Built confidence documenting projects directly inside Ubuntu
+
+
+
+
