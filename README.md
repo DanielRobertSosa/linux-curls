@@ -69,7 +69,9 @@ Once the BIOS settings were corrected, I verified that **virtualization was enab
 **Result:**  
 - Virtualization status confirmed as “Enabled” ✅
 
-📸 *Screenshot Placeholder (03-virtualization-enabled.png)*
+<p align="center">
+<img width="1072" height="724" alt="Screenshot 2025-11-06 145751" src="https://github.com/user-attachments/assets/83f2a083-d7fa-40c5-a3d8-bd0fec84a2d1" />
+
 
 ---
 
