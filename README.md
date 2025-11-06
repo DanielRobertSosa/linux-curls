@@ -47,7 +47,9 @@ When first attempting to install Ubuntu, an error message appeared:
 - Ran initial `wsl --install` command  
 - Identified virtualization not enabled in BIOS  
 
-📸 *Screenshot Placeholder (01-wsl2-error.png)*
+<p align="center">
+<img width="1038" height="550" alt="Screenshot 2025-11-06 142319" src="https://github.com/user-attachments/assets/4473a9b0-e715-4071-90e5-2a14e3151dbe" />
+
 
 ---
 
