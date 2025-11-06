@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://i.imgur.com/zq5ZlZQ.png" alt="Cloud Engineer Academy Logo" width="250"/>
+  <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/a1c2a591-717a-434a-95b9-af1ad27a8952" />
+
 </p>
 
 # ☁️ Cloud Engineer Academy – Project Curls (Week 1)
