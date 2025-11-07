@@ -97,7 +97,8 @@ Created a new Linux user account (`danso`) and confirmed access to the terminal.
 - Password successfully created  
 - Verified prompt switched to user session  
 
-📸 *Screenshot Placeholder (05-ubuntu-first-login.png)*
+<p align="center">
+<img width="986" height="453" alt="Screenshot 2025-11-06 151631" src="https://github.com/user-attachments/assets/f9871adc-bc83-49c7-adeb-d3db5f3a4743" />
 
 ---
 
