@@ -84,7 +84,8 @@ After confirming virtualization, Ubuntu was successfully installed in WSL.
 - Observed setup completion message  
 - Reached the Linux shell prompt  
 
-📸 *Screenshot Placeholder (04-ubuntu-installed.png)*
+<p align="center">
+<img width="1718" height="947" alt="Screenshot 2025-11-06 150657" src="https://github.com/user-attachments/assets/fb1ebee4-4f3b-4352-ac48-7968be8158e5" />
 
 ---
 
