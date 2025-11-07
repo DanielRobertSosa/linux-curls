@@ -122,9 +122,10 @@ Executed real HTTP requests using the `curl` command to fetch data and analyze H
 -  Local HTML file saved as example.html
 -  Verified HTTP 200 OK response
 
-📸 Screenshot Placeholder
+<p align="center">
 
--  (07-curl-requests.png)
+<img width="1724" height="850" alt="Screenshot 2025-11-06 153010" src="https://github.com/user-attachments/assets/073e97b0-5ffd-46fa-aa61-58c28974bdb6" />
+
 
 <h2>Step 8 – Documenting the Project in Ubuntu</h2>
 
@@ -143,8 +144,9 @@ This step demonstrates documenting technical work entirely from the Linux termin
   -  Strengthened Markdown writing and version-control workflow
   -  Finalized project summary with all commands, screenshots, and outcomes
 
-📸 Screenshot Placeholder
-  -  (08-readme-nano.png)
+<p align="center">
+<img width="1172" height="587" alt="Screenshot 2025-11-06 153351" src="https://github.com/user-attachments/assets/1aa37406-3d86-41bb-99c9-57e7d125b2b6" />
+
 
 ✅ Project Results / Validation
 
