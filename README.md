@@ -5,7 +5,7 @@
 
 # ☁️ Cloud Engineer Academy – Project Curls (Week 1)
 
-This project is part of the **Cloud Engineer Academy** curriculum under **Week 1: Cloud Fundamentals**.  
+This project is part of the **Cloud Engineer Academy** curriculum under **Cloud Fundamentals**.  
 It demonstrates how to use the command line to install tools, make HTTP GET requests, and analyze HTTP response headers using the `curl` command-line utility.
 
 ---
